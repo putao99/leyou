@@ -1,5 +1,7 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-140322678-1/welcome-page)](https://github.com/dianemax/leyou)
 
+乐优商城源码/数据库及笔记总结 https://blog.csdn.net/sinat_38570489/article/details/93406180
+
 # 1.乐优商城介绍
 
 ## 1.1.项目介绍
